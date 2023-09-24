@@ -21,6 +21,10 @@ To access the python code, please cotact: saeed.bidi@city.ac.uk
 
 ## Results summary
 
+<p align="center">
+  <img width="50%" height="50%" src="Residuals with KNeighborsRegressor.png">
+</p>
+
 <div style="text-align:center;">
     <img src="CorrMat.png" alt="Image 1 Description" width="50%" height="50%">
 </div>
