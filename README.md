@@ -21,4 +21,26 @@ To access the python code, please cotact: saeed.bidi@city.ac.uk
 
 ## Results summary
 
-![Alt text](<Results summary/PredictionError with KNeighborsRegressor.png>) ![Alt text](<Results summary/CorrMat.png>) ![Alt text](<Results summary/Line with KNeighborsRegressor.png>) ![Alt text](<Results summary/Line with LinearRegression.png>) ![Alt text](<Results summary/Line with RandomForestRegressor.png>) ![Alt text](<Results summary/Line with XGB Decision Tree.png>) ![Alt text](<Results summary/PredictionError with LinearRegression.png>) ![Alt text](<Results summary/PredictionError with RandomForestRegressor.png>) ![Alt text](<Results summary/PredictionError with XGB Decision Tree.png>) ![Alt text](<Results summary/Residuals with KNeighborsRegressor.png>) ![Alt text](<Results summary/Residuals with LinearRegression.png>) ![Alt text](<Results summary/Residuals with PolinLinearRegression.png>) ![Alt text](<Results summary/Residuals with SVR.png>)
+![Alt text](CorrMat.png) ![Alt text](<Line with KNeighborsRegressor.png>)
+
+![Alt text](<Line with LinearRegression.png>)
+
+![Alt text](<Line with RandomForestRegressor.png>)
+
+![Alt text](<Line with XGB Decision Tree.png>)
+
+![Alt text](<PredictionError with KNeighborsRegressor.png>)
+
+![Alt text](<PredictionError with LinearRegression.png>)
+
+![Alt text](<PredictionError with RandomForestRegressor.png>)
+
+![Alt text](<PredictionError with XGB Decision Tree.png>)
+
+![Alt text](<Residuals with KNeighborsRegressor.png>)
+
+![Alt text](<Residuals with LinearRegression.png>)
+
+![Alt text](<Residuals with PolinLinearRegression.png>)
+
+![Alt text](<Residuals with SVR.png>)
