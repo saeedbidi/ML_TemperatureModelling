@@ -23,53 +23,53 @@ To access the python code, please cotact: saeed.bidi@city.ac.uk
 
 
 <p align="center">
-    <img src="CorrMat.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/CorrMat.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Line with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Line with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Line with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Line with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Line with RandomForestRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Line with RandomForestRegressor.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Line with XGB Decision Tree.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Line with XGB Decision Tree.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="PredictionError with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/PredictionError with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="PredictionError with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/PredictionError with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="PredictionError with RandomForestRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/PredictionError with RandomForestRegressor.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="PredictionError with XGB Decision Tree.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/PredictionError with XGB Decision Tree.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Residuals with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Residuals with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Residuals with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Residuals with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Residuals with PolinLinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Residuals with PolinLinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
 
 <p align="center">
-    <img src="Residuals with SVR.png" alt="Image 1 Description" width="50%" height="50%">
+    <img src="Results summary/Residuals with SVR.png" alt="Image 1 Description" width="50%" height="50%">
 </p>
