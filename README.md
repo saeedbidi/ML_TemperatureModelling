@@ -21,29 +21,54 @@ To access the python code, please cotact: saeed.bidi@city.ac.uk
 
 ## Results summary
 
-<img src="CorrMat.png" alt="Image Description" width="50%" height="50%">
+<div style="text-align:center;">
+    <img src="CorrMat.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
+<div style="text-align:center;">
+    <img src="Line with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Line with KNeighborsRegressor.png>)
+<div style="text-align:center;">
+    <img src="Line with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Line with LinearRegression.png>)
+<div style="text-align:center;">
+    <img src="Line with RandomForestRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Line with RandomForestRegressor.png>)
+<div style="text-align:center;">
+    <img src="Line with XGB Decision Tree.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Line with XGB Decision Tree.png>)
+<div style="text-align:center;">
+    <img src="PredictionError with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<PredictionError with KNeighborsRegressor.png>)
+<div style="text-align:center;">
+    <img src="PredictionError with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<PredictionError with LinearRegression.png>)
+<div style="text-align:center;">
+    <img src="PredictionError with RandomForestRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<PredictionError with RandomForestRegressor.png>)
+<div style="text-align:center;">
+    <img src="PredictionError with XGB Decision Tree.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<PredictionError with XGB Decision Tree.png>)
+<div style="text-align:center;">
+    <img src="Residuals with KNeighborsRegressor.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Residuals with KNeighborsRegressor.png>)
+<div style="text-align:center;">
+    <img src="Residuals with LinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Residuals with LinearRegression.png>)
+<div style="text-align:center;">
+    <img src="Residuals with PolinLinearRegression.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
 
-![Alt text](<Residuals with PolinLinearRegression.png>)
-
-![Alt text](<Residuals with SVR.png>)
+<div style="text-align:center;">
+    <img src="Residuals with SVR.png" alt="Image 1 Description" width="50%" height="50%">
+</div>
