@@ -21,7 +21,10 @@ To access the python code, please cotact: saeed.bidi@city.ac.uk
 
 ## Results summary
 
-![Alt text](CorrMat.png) ![Alt text](<Line with KNeighborsRegressor.png>)
+<img src="CorrMat.png" alt="Image Description" width="50%" height="50%">
+
+
+![Alt text](<Line with KNeighborsRegressor.png>)
 
 ![Alt text](<Line with LinearRegression.png>)
 
