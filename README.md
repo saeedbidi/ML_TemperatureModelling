@@ -1,4 +1,8 @@
 ## Modelling a bridge temperature with <ins>machine mearning algorithms</ins>
+
+Publication: https://ieeexplore.ieee.org/document/10292465/
+
+
 Project abstract: Lately, there has been a growing interest in the utilization of statistical methodologies and artificial intelligence (AI) approaches such as machine learning and deep learning, particularly within the realm of engineering. These data-driven techniques have become increasingly important for achieving faster and more precise predictions. In this research, we applied machine learning methods to actual engineering data with the objective of constructing a robust model for forecasting bridge deck surface temperature and outlet temperature. To achieve this, we leveraged meteorological data gathered during a bridge de-icing project in Texas. Our analysis encompassed the use of
 * Random Forest,
 * XGBoost,
