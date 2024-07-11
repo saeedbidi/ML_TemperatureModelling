@@ -27,6 +27,8 @@ To access the Python code, please cotact: saeed.bidi@qmul.ac.uk
 
 <iframe src="./Certificate.pdf" width="100%" height="500px"></iframe>
 
+[View the Certificate PDF](./Certificate.pdf)
+
 ## Results summary
 
 
