@@ -21,7 +21,7 @@ Contributors:
 * Omid Habibzadeh-Bigdarvish 
 * Xinbao Yu
 
-To access the python code, please cotact: saeed.bidi@city.ac.uk
+To access the Python code, please cotact: saeed.bidi@qmul.ac.uk
 
 ## Results summary
 
