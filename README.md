@@ -1,4 +1,4 @@
-## Modelling a bridge temperature with <ins>machine mearning algorithms</ins>
+## Modelling a bridge temperature with Machine Learning algorithms
 
 Publication: https://ieeexplore.ieee.org/document/10292465/
 
@@ -22,6 +22,10 @@ Contributors:
 * Xinbao Yu
 
 To access the Python code, please cotact: saeed.bidi@qmul.ac.uk
+
+## Certificate
+
+<iframe src="./Certificate.pdf" width="100%" height="500px"></iframe>
 
 ## Results summary
 
